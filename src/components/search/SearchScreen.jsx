@@ -3,7 +3,6 @@ import queryString from 'query-string';
 import TextField from '@material-ui/core/TextField'
 import Button from '@material-ui/core/Button'
 import Alert from '@material-ui/lab/Alert';
-
 import { HeroCard } from '../heroes/HeroCard';
 import { useForm } from '../../hooks/useForm';
 import { useLocation } from 'react-router';
